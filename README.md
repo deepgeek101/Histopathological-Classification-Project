@@ -1,4 +1,7 @@
-Dataset used for the project: (Size ~ 10 GB)
+                      Project Title : Explainable AI for Cervical Cancer Detection using Histopathological Images 
+
+
+Dataset used for the project: CAISHI (Size ~ 10 GB)
 
 About dataset:
 CAISHI is a dataset containing **2240** cervical histopathological images, of which 1010 are of _**normal**_ cervical glands and 1230 are of cervical adenocarcinoma in situ (AIS) i.e. _**abnormal**_.
